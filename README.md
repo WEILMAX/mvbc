@@ -10,7 +10,7 @@ The `mvbc` package is a Python client to interact with the [**Meetnet Vlaamse Ba
 To use the Meetnet Vlaamse Banken API, you first need to create an account and get credentials:
 
 1. Go to the [Meetnet Vlaamse Banken registration page](https://meetnetvlaamsebanken.be/account/register?signin=37ffaa0bfd8682563a8290c0d73f7f95).
-2. Once registered, you will obtain your `MEETNET_USERNAME` and `MEETNET_PASSWORD`.
+2. Once registered, you will obtain your `MEETNET_USERNAME` and `MEETNET_PASSWORD`. These correspond to the username and password that you set yourself during the registration process.
 
 ### 2. Set Credentials as Environment Variables (Optional)
 
